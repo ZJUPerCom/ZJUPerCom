@@ -28,6 +28,3 @@ hide:
 
 ### 会议室环境
 <img src="../images/IMG_8349.HEIC.JPG" style="zoom:100%;" /> 
-
-### 外部环境
-<img src="../images/IMG_8351.png" style="zoom:100%;" /> 
