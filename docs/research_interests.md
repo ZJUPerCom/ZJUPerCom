@@ -7,7 +7,7 @@ hide:
 主要以时序数据挖掘的研究为主。实验室发表的论文见：[论文列表](https://scholar.google.co.jp/citations?user=Vxi9eakAAAAJ)
 
 ## 连续时间序列
-### 多变量时间序列数据挖掘
+### 多时间序列数据挖掘
 - 研究场景：通用时间序列预测、交通预测、空气质量预测、天气预测
 - 代表工作：
     - Ada-MSHyper: Adaptive multi-scale hypergraph transformer for time series forecasting, NeurIPS, 2024
