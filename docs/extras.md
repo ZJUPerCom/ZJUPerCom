@@ -10,6 +10,16 @@ hide:
 
 ## 实验室活动
 
+### 实验室毕业生聚会
+<img src="../images/20241115151613.jpg" style="zoom:100%;" />
+
+<img src="../images/20241115151624.jpg" style="zoom:100%;" />
+
+<img src="../images/20241115151630.jpg" style="zoom:100%;" />
+
+<img src="../images/20241115151634.jpg" style="zoom:100%;" />
+
+
 ### 爬山采风
 <img src="../images/20241024174021.jpg" style="zoom:100%;" />
 
